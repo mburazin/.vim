@@ -3,6 +3,9 @@ Plugin 'rafi/awesome-vim-colorschemes'
 Plugin 'tomasiser/vim-code-dark'
 Plugin 'gosukiwi/vim-atom-dark'
 
+" Language pack
+Plugin 'sheerun/vim-polyglot'
+
 " Gundo
 Plugin 'sjl/gundo.vim'
 
@@ -20,3 +23,5 @@ Plugin 'scrooloose/nerdtree'
 " Powerline, Unite, vim-startify and more
 Plugin 'ryanoasis/vim-devicons'
 
+" Syntax highlighting for NerdTree
+Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
