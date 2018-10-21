@@ -30,6 +30,8 @@ set t_CO=256
 colorscheme onedark
 "Get rid of ugly split borders.
 hi vertsplit guifg=bg guibg=bg
+highlight Comment gui=italic
+highlight Comment cterm=italic
 
 " Spaces and tabs
 set expandtab        " tabs are spaces
